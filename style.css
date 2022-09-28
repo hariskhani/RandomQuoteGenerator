@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin:50px auto;
+    width: 50%;
+    text-align: center;
+
+    background-color: rgb(92, 88, 88);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.quote-box, h2 h4{
+    padding: 10%;
+}
+#quote, #quoter{
+    margin: 10px;
+}
+#quoteBtn{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
